@@ -85,15 +85,15 @@ Color 1:
 ***********************************/
 
 article{
-    background:#eee;
+    background:#282F4A;
 }
 
 footer{
-    background:#eee;
+    background:#282F4A;
 }
 
 .jumbotron{
-  background: url('https://picjumbo.imgix.net/HNCK8910.jpg?q=40&w=1650&sharp=30') no-repeat center;
+  background: url('http://www.imagesource.com/Doc/IS0/Media/TR3_WATERMARKED/f/a/6/c/IS09A6F5H.jpg') no-repeat center;
   background-size: cover;
 }
 
