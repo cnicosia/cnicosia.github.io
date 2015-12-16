@@ -50,3 +50,8 @@ Color 1:
 Color 1:
 Color 1:
 ***********************************/
+.jumbotron{
+  background: url("http://i1194.photobucket.com/albums/aa364/cnicosia1/File_000%201_zpschktzmtp.jpeg") no-repeat center;
+  background-size: cover;
+  height:350px;
+}
