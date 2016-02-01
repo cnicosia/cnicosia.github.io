@@ -45,6 +45,11 @@ MAIN CONTENT
   max-width:242px;
 }
 
+.thumbnail{
+    max-height:325px;
+}
+
+
 article{
     width:90%;
     margin:0 auto;
