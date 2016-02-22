@@ -21,8 +21,8 @@ HEADER
 .jumbotron{
     text-align:center;
     margin-bottom:10px;
-    height:500px;
-    padding-top:50px;
+    height:800px;
+    padding-top:00px;
 }
 
 .portrait_name{
@@ -90,17 +90,17 @@ Color 1:
 ***********************************/
 
 article{
-    background:#282F4A;
-    color:tan;
+    background:#0C0A0B;
+    color:maroon;
 }
 
 footer{
-    background:#282F4A;
-    color:tan;
+    background:#0C0A0B;
+    color:maroon;
 }
 
 .jumbotron{
-  background: url('http://www.imagesource.com/Doc/IS0/Media/TR3_WATERMARKED/f/a/6/c/IS09A6F5H.jpg') no-repeat center;
+  background: url(http://p3cdn4static.sharpschool.com/UserFiles/Servers/Server_3500628/Image/abstract-art-mother-earth-1.jpg) no-repeat center;
   background-size: cover;
 }
 
