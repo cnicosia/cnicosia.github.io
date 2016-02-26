@@ -88,19 +88,21 @@ Color 1:
 Color 1:
 Color 1:
 ***********************************/
-
+body{
+    background-color:#710E19;
+}
 article{
-    background:#0C0A0B;
-    color:maroon;
+    background:#BDA968;
+    color:#023E26;
 }
 
 footer{
-    background:#0C0A0B;
-    color:maroon;
+    background:#BDA968;
+    color:#023E26;
 }
 
 .jumbotron{
-  background: url(http://p3cdn4static.sharpschool.com/UserFiles/Servers/Server_3500628/Image/abstract-art-mother-earth-1.jpg) no-repeat center;
+  background: url(http://orig08.deviantart.net/682e/f/2008/172/3/d/gucci_made_by_me_by_rugge89lau.jpg) no-repeat center;
   background-size: cover;
 }
 
